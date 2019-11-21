@@ -1,6 +1,6 @@
 header{
     background-color: #ffffff;
-    padding-bottom: 40px;
+    padding-bottom: 39px;
     margin: auto;
     width: 75%;
 
@@ -47,5 +47,13 @@ section {
     background-color: #ffffff;
     margin: auto;
     width: 75%
+
+}
+footer {
+    text-align: center;
+    font-size: x-small;
+    background-color: #666666;
+    
+
 
 }
