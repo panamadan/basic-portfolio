@@ -1,13 +1,51 @@
 header{
     background-color: #ffffff;
-    width: 200px;
+    padding-bottom: 40px;
+    margin: auto;
+    width: 75%;
+
+    
+
 }
-nav{
+.header {
+    display: inline;
+    width: 200px
+}
+nav {
+    display: inline;
     float: right;
+    margin: 10px;
+}
+nav a { 
+    
+    color: #777777;
+    text-decoration: none;
+    margin: 10px;
+
 }
 h1 {
-    background-color:#4aaaa5;
+    display: inline;   
+     background-color:#4aaaa5;
+     color: white;
+     padding-bottom: 40px;
+     padding-top: 100px;
+
 }
 img {
     float: left;
+}
+h2 {
+    color: #4aaaa5;
+}
+.body {
+    background-color: #777777;
+    border-top: 2px gray solid;
+    height: 500px;
+
+}
+section {
+    background-color: #ffffff;
+    margin: auto;
+    width: 75%
+
 }
